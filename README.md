@@ -33,4 +33,4 @@ Cada pasta em `src/` contém um único arquivo `.java`, cujo nome coincide com o
 
 ## Vídeos
 
-O vídeo está disponível via Google drive pelo link:
+O vídeo está disponível via Google drive pelo link: https://drive.google.com/drive/folders/1bOLYKzZsBi2uBxiLX7xJul2-qEOPBBRM?usp=drive_link
